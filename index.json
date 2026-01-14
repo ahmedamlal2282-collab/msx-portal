@@ -1,0 +1,15 @@
+{
+  "name": "My MSX Portal",
+  "items": [
+    {
+      "type": "application",
+      "title": "YouTube",
+      "url": "https://www.youtube.com/tv"
+    },
+    {
+      "type": "application",
+      "title": "Yassin TV",
+      "url": "https://yatv.yacineapp.tv/"
+    }
+  ]
+}
