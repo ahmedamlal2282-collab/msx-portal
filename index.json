@@ -1,15 +1,12 @@
 {
-  "name": "My MSX",
+  "type": "list",
+  "headline": "My Applications",
   "items": [
     {
       "type": "application",
       "title": "YouTube",
-      "url": "http://www.youtube.com/tv"
-    },
-    {
-      "type": "application",
-      "title": "Yassin TV",
-      "url": "http://yatv.yacineapp.tv/"
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
+      "action": "youtube://"
     }
   ]
 }
