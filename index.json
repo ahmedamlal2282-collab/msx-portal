@@ -1,12 +1,12 @@
+
 {
   "type": "list",
-  "headline": "My Applications",
+  "headline": "Ahmed MSX Portal",
   "items": [
     {
-      "type": "application",
-      "title": "YouTube",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
-      "action": "youtube://"
+      "type": "default",
+      "label": "Welcome to my MSX Portal",
+      "description": "My first Media Station X portal"
     }
   ]
 }
